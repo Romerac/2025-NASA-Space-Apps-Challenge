@@ -15,9 +15,8 @@ The project was built from scratch in an environment of intense collaboration, w
 ## 👨‍💻 My Role & Contributions
 As a member of this team, I actively participated in multiple stages of the project, applying skills in creativity, communication, planning, and problem-solving. My main contributions included:
 
-* **Conceptualization & Storytelling:** Collaborated on developing the core narrative, characters, and educational flow.
+* **Conceptualization & Storytelling:** Collaborated on developing the core narrative and characters.
 * **Design & Visual Identity:** Helped shape the engaging and kid-friendly aesthetics of the comic.
-* **Website Implementation:** Actively participated in the coding and structuring of the digital platform to bring the interactive elements to life.
 
 ## 💡 Key Takeaways
 This experience allowed me to improve my ability to think creatively and interdisciplinarily, transforming complex scientific concepts into educational experiences. 
